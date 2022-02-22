@@ -1,3 +1,9 @@
+# Starboys NFT Dao Edited plan
+Add layer dependancy : 특정 프로퍼티는 특정 조합들끼리만 가능하게 config 파일 기반으로 생성하도록 수정 
+
+
+
+
 # NFT ART GENERATOR
 This tool generates generative NFT art, based of all available traits.  
 It was made with the intention to make the generative art field more accessible to anyone.  
