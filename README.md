@@ -1,4 +1,4 @@
-# Starboys NFT Dao Edited plan
+# Starboys NFT Dao Edited
 Add layer dependancy : 특정 프로퍼티는 특정 조합들끼리만 가능하게 config 파일 기반으로 생성하도록 수정 
 
 
